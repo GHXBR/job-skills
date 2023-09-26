@@ -5,8 +5,7 @@ const config: CapacitorConfig = {
   appName: 'Job Skills',
   webDir: 'build',
   server: {
-    androidScheme: 'http://192.168.1.8:3000',
-    cleartext: true
+    androidScheme: 'http://192.168.1.8:3000'
   }
 };
 
