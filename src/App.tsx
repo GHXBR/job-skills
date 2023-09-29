@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>App</h1>
       <button onClick={ () => alert('hello') }>Click</button>
+      <p></p>
     </div>
   );
 }
